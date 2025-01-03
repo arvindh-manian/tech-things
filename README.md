@@ -33,12 +33,12 @@
   - ~~Prometheus~~
   - Grafana
   - Helm
+  - Self-hosting
 - CUDA (difficult because no GPU)
 - Containerd
 - Spark
 - OpenTelemetry
 - ~~Hardhat~~
-
 
 ## Implementing by myself
 - LSP
@@ -49,7 +49,10 @@
 - VSCode extension
 - Homebrew formula
 - DNS server
+- Cryptocurrency
 
 ## Services
 - Turso
 - Sentry
+- ~~OpenAI agents and assistants~~
+- Claude Computer Use API
