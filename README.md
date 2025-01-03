@@ -20,6 +20,7 @@
 - Ocaml
 - Zig
 - Gleam
+- ~~Solidity~~
 
 ## Misc Tooling
 - Coolify
@@ -32,13 +33,23 @@
   - ~~Prometheus~~
   - Grafana
   - Helm
-- CUDA
+- CUDA (difficult because no GPU)
+- Containerd
+- Spark
+- OpenTelemetry
+- ~~Hardhat~~
+
 
 ## Implementing by myself
 - LSP
 - NN
 - Garbage collection
 - Bitcoin miner
+- Transformer
+- VSCode extension
+- Homebrew formula
+- DNS server
 
 ## Services
 - Turso
+- Sentry
