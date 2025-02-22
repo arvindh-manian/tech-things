@@ -39,6 +39,7 @@
 - Spark
 - OpenTelemetry
 - ~~Hardhat~~
+- Orbstack or Podman
 
 ## Implementing by myself
 - LSP
@@ -50,6 +51,7 @@
 - Homebrew formula
 - DNS server
 - Cryptocurrency
+- ~~Compiler~~ working on in ECE 553
 
 ## Services
 - Turso
