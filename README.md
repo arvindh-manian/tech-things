@@ -1,4 +1,4 @@
-# Tech things I've been meaning to try
+# Tech Bucket List
 
 ## JS-related
 - Bun
