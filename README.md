@@ -40,6 +40,7 @@
 - OpenTelemetry
 - ~~Hardhat~~
 - Orbstack or Podman
+- MCP
 
 ## Implementing by myself
 - LSP
