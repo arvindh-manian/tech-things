@@ -41,6 +41,7 @@
 - ~~Hardhat~~
 - Orbstack or Podman
 - MCP
+- TailScale
 
 ## Implementing by myself
 - LSP
