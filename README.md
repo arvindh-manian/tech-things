@@ -54,6 +54,7 @@
 - DNS server
 - Cryptocurrency
 - ~~Compiler~~ working on in ECE 553
+- Docker
 
 ## Services
 - Turso
