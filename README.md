@@ -8,7 +8,7 @@
 - Xstate
 - Rolldown
 - Angular
-- React Native
+- ~~React Native~~
 - HTMX
 - Three.js
 
@@ -39,9 +39,9 @@
 - Spark
 - OpenTelemetry
 - ~~Hardhat~~
-- Orbstack or Podman
+- ~~Orbstack~~ or Podman
 - MCP
-- TailScale
+- ~~TailScale~~
 
 ## Implementing by myself
 - LSP
